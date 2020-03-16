@@ -1,0 +1,103 @@
+/* fullscreen */
+/* Task -> Finish */
+
+.full-screen {
+    min-height: 100vh;
+}
+.half-screen {
+    min-height: 50vh;
+}
+
+
+/* Container and Space */
+/* Task -> Finish */
+
+.space {
+    padding-top: 10%!important;
+    padding-bottom: 10%!important;
+}
+.space-xs {
+    padding-top: 2%!important;
+    padding-bottom: 2%!important;
+}
+
+
+/* Background color */
+
+.bg-color-transparent {
+    background-color: transparent!important;
+}
+
+.bg-color-1 {
+    background-color: rgb(236, 235, 235);
+}
+
+.bg-color-2 {
+    background-color: darkorange;
+}
+
+.header-top {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 2px;
+}
+
+.header-account {
+    margin: auto;
+}
+
+.header-search {
+    min-width: 700px;
+    border: none;
+    outline: none;
+    padding: 5px 0px 5px 0px;;
+}
+
+.container-search {
+    min-width: 700px;
+    background-color: white;
+    border-radius: 2px;
+}
+
+.btn-search {
+    padding: 5px 20px 5px 20px;
+    border: none;
+    border-radius: 2px;
+}
+
+.jumbo-tron {
+    height: 350px;
+}
+
+.hero-image {
+    background-image: linear-gradient(to bottom, rgba(255,0,0,0), rgb(236, 235, 235)), url('/assets/banner2.jpg');
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+}
+
+.cardmenu-1 {
+    background-color: white;
+    margin: 10px;
+    width: 300px;
+    height: 400px;
+}
+
+.cardmenu-2 {
+    background-color: white;
+    margin: 10px;
+    width: 1260px;
+    height: 150px;
+}
+
+.cardmenu-3 {
+    background-color: white;
+    margin: 10px 10px 50px 10px;
+    width: 188px;
+    height: 273px;
+}
